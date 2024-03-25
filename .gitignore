@@ -1,5 +1,6 @@
 # Project-specific
 data/eurosat/
+data/UAV/
 pyxu
 
 .DS_Store
